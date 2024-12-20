@@ -1,0 +1,20 @@
+{
+    "name": "cankie7474/my-test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cankie7474\\MyTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cankie7474",
+            "email": "ckayac@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "~v4.4"
+    }
+}
